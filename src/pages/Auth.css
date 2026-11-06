@@ -1,0 +1,28 @@
+.form-bg {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form-item {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-item input {
+    width: 700px;
+    height: 30px;
+}
+
+.form-item button {
+    width: 700px;
+    background-color:rgb(4, 111, 4);
+    border: 1px solid antiquewhite;
+    padding: 15px 30px;
+    font-weight: 600;
+    cursor: pointer;
+}
