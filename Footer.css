@@ -1,0 +1,16 @@
+footer {
+  background: #0f6b5c;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: center;
+  padding: 20px 16px;
+  font-size: 0.9rem;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+
+}
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
